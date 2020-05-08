@@ -1,0 +1,17 @@
+company,job,degree,salary_more_then_100k
+Glenmark,sales executive,bachelors,0
+Glenmark,sales executive,masters,0
+Glenmark,business manager,bachelors,1
+Glenmark,business manager,masters,1
+Glenmark,computer programmer,bachelors,0
+Glenmark,computer programmer,masters,1
+abc pharma,sales executive,masters,0
+abc pharma,computer programmer,bachelors,0
+abc pharma,business manager,bachelors,0
+abc pharma,business manager,masters,1
+Cipla,sales executive,bachelors,1
+Cipla,sales executive,masters,1
+Cipla,business manager,bachelors,1
+Cipla,business manager,masters,1
+Cipla,computer programmer,bachelors,1
+Cipla,computer programmer,masters,1

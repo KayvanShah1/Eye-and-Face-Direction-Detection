@@ -1,0 +1,23 @@
+probability distribution:
+
+
+1) asssume a coin is wewigjhted so that it gets head 60 % of the time.   
+what is the probability of getting 25 or more head after 50 flips.
+what is the probability of getting 30 tails in 50 flips.
+
+2)Assume a standard die is rolled 10 times. 
+find
+p(x< 5sixes)
+p(x <= 5 sixes)
+p(x> 5 sixes)
+
+3) Assume a lifetime of a metastable nuclear isomer which is exponentially distributed with mean lifetime of 20 min. 
+what is the probability that it will decay in 10  min
+
+4) Assume a lightbulb has lifetime of 1000hrs. 
+what is the probaility that bulb will blow in 2000 hrs.
+
+5)There are 5 walkins/ hr in a institute. what is the probaility of having 35 walking next day between 2:00 PM to 5:00 PM  
+
+6)A random variable z is normally distributed with mean=6 and sd= 4, 
+find p(1>x>3), p(1<x<3)

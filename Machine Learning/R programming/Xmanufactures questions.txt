@@ -1,0 +1,15 @@
+Data Set: Xmanufacteres
+Contains 
+Item ID : X
+Normalized weights of the product X_wt
+Packaging time X_pack
+Item processed in which batch_ batch no
+Items defective probability = 0.005
+
+questions
+1) what is the probability that randomly choosen weight will be more than 19grms
+2) Suppose items are packed in a cartoon of size 25, what is the probabilty that there is exactly one defective.
+3) what is the probabilty that there is less than 5 items defective in the same package.
+4) what is the probabilty that there is more than 5 items defective in the same package.
+5) what is the probability that next batch will produce more that 150 items in the same duration.
+6) what is the probaility of packing done in 8 min, 5 min respectively.
